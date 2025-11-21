@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ListaSupermercado {
+public class listaSupermercado {
     public static void main(String[] args) {
         ArrayList<String> compras = new ArrayList<>(Arrays.asList("Manzanas"));
         
